@@ -1,6 +1,6 @@
 # image_to_image_stable_diffusers
 
-stable_diffueers을 활용하여 image를 학습하여 image를 출력하는 모델입니다.
+diffueers을 활용하여 image를 학습하여 image를 출력하는 모델입니다.
 
 ## 시작하기
 
