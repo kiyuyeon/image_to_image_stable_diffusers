@@ -30,7 +30,7 @@ git clone https://github.com/kiyuyeon/image_to_image_stable_diffusers.git
 2. 프로젝트 디렉토리로 이동합니다.
 
 ```
-cdimage_to_image_stable_diffusers
+cd image_to_image_stable_diffusers
 ```
 
 3. 필요한 패키지를 설치합니다.
